@@ -1,0 +1,121 @@
+@media  (max-width: 390px){
+    .nav_container_3{
+        display: none;
+    }
+    .nav_container_1{
+        width: 100%;
+    }
+    .nav_container{
+        padding: 30px;
+    }
+    .features_container{
+        margin: 100px 50px 0 50px;
+    }
+    .cta{
+        margin: 0 50px 0 50px;
+    }
+    .footer_container{
+        padding: 0 50px 0 50px;
+    }
+    .hero_container{
+        margin: 0 50px 0 50px;
+    }
+    .email_subscription{
+        flex-direction: column;
+        padding-top: 50px;
+    }
+
+    .testimonial_container{
+        flex-direction: column;
+    }
+    .cta_container .col2{
+        display: none;
+    }
+    .Designed_Container{
+        margin: 0 50px 0 50px;
+    }
+    .getting_started_container{
+        margin: 0 50px 0 50px;
+    }
+
+    .features{
+        flex-direction: column;
+    }
+    .features .col4{
+        width: 100%;
+    }
+    .features_padding{
+        padding-top: 0px;
+    }
+    .gallery_container{
+        margin: 0 50px 0 50px;
+    }
+    .gallery_container .col1{
+        flex-direction: column;
+    }
+    .gallery_container .col2{
+        flex-direction: column;
+    }
+    .footer_details {
+        flex-direction: column;
+    }
+    .footer_details .col4{
+        width: 100%;
+    }
+    .get_started_btn{
+        background: #FFD62A;
+        padding: 15px 40px 15px 40px;
+        margin-bottom: 50px;
+    }
+    .cta_container{
+        height: 300px;
+    }
+    .cta_container .col1{
+        width: 100%;
+        padding: 80px 0 0 50px;
+    }
+
+
+    .title{
+        font-size: 30px;
+    }
+    .desciption{
+        font-size: 18px;
+}
+.gallery_container .col1_img{
+    width: 100%;
+}
+.gallery_container .col1_img{
+    width: 100%;
+}
+}
+
+
+@media  (max-width: 925px){
+    .testimonial_container{
+        flex-direction: column;
+    }
+    .features{
+        flex-direction: column;
+    }
+    .features .col4{
+        width: 100%;
+    }
+    .features_padding{
+        padding-top: 0px;
+    }
+    .cta{
+        display: none;
+    }
+}
+
+
+
+@media  (max-width: 1239px){
+    .nav_container_2{
+        display: none;
+    }
+}
+
+
+
